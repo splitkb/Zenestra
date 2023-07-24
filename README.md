@@ -29,6 +29,8 @@ The following projections are available in the `projections` folder which you ca
 - `bottom.dxf`: A projection of the bottom showing the case outline, mounting holes and bolt recesses, SKUF rubber feet recesses and the tripod mounting hole.
 - `emblem.dxf`: A projection of the case's emblem.
 
+Do mind that all the files do not include kerf. If using it with a laser cutting service, inquire for the kerf setting to use. If kerf is required, you may need to modify your files, or ask your supplier to modify them for you.
+
 ## Dimension Guide
 Here's some guidance on important dimensions:
 
