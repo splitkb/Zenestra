@@ -1,7 +1,7 @@
 # Zenestra
 The Zenestra is a modular keyboard case which allows you to easily add, replace and design your own parts.
 
-> [!WARNING]
+> **Warning**
 > The Zenestra project is currently in pre-alpha status. Prototypes for the case are in production, and PCBs for the project are still in development. These files are being made available for open source development purposes, so that tooling can be developed. If you are a customer, please hold off until the official project reveal before developing or ordering things based off of these files.
 
 ## Warranty and license
@@ -17,7 +17,7 @@ The Zenestra project has the following files available:
 ### Kicad template project
 You can place the `zenestra-template` folder into your own Kicad installation's template folder. Please see the [Kicad template documentation](https://docs.kicad.org/6.0/en/kicad/kicad.html#template-locations) on where these files can be placed.
 
-> [!NOTE]
+> **Note**
 > The template requires Kicad version 7.0.0 or higher.
 
 If you then Choose **File** > **New Project** > **New Project from Template**, you'll be able to select the newly added template to get a head start when creating PCBs for your new case.
