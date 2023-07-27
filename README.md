@@ -11,8 +11,15 @@ This work is licensed under the Creative Commons Attribution-NonCommercial-Share
 
 These files are available for non-commercial use only. You explicitly have permission to make objects with these files for yourself, friends, family and coworkers. If you'd like to sell objects made from these files, please [get in touch](mailto:support@splitkb.com).
 
-## Files
-The Zenestra project has the following files available:
+## About the Zenestra project
+The Zenestra project consists of a premium keyboard case, several kit options, as well documentation and templates to create your own PCBs and case accessories from, the latter of which are contained within this repository. It was inspired from rectangular DIY kits some creators in the community have made in the past and is meant to lower the barrier to entry for designing your own keyboards: you won't have to think about the case anymore and can focus on just the PCB design.
+
+Using tools like Kicad (with the included template) or [Ergogen](https://ergogen.xyz), you can get started with relative ease. Guidance on dimensions and PCB design considerations can be found in this document.
+
+The Zenestra case will be available at [splitkb.com](https://splitkb.com/zenestra) in the future. While meant for split keyboards, it can also be used for macropads, numpads, game controllers and other uses, and as such will be available individually and in sets of two.
+
+## Files within this repository
+The Zenestra project makes the following files available:
 
 ### Kicad template project
 You can place the `zenestra-template` folder into your own Kicad installation's template folder. Please see the [Kicad template documentation](https://docs.kicad.org/6.0/en/kicad/kicad.html#template-locations) on where these files can be placed.
